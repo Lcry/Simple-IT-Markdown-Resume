@@ -1,4 +1,4 @@
-<p align="center"><font size="7">Simple-IT-Markdown-Resume</font></p>
+<p align="center"><font size=7>Simple-IT-Markdown-Resume</font></p>
  <p align="center"> 一款适合 IT 行业的 Markdown 简历模版，拒绝花里胡哨 </p>
 
 <div align=center><img src="assets/img/main.jpg"></div>
