@@ -23,7 +23,7 @@
 
 ![2](assets/img/1.png)
 
-（4）之后重启一下 Typora 编辑器，并在根据自己需求选择样式。
+（5）之后重启一下 Typora 编辑器，并在根据自己需求选择样式。
 
 - Lcry Resume Style1 Avatar：带头像的简历样式
 - Lcry Resume Style1 No Avatar：不带头像的简历样式
