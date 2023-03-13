@@ -2,15 +2,16 @@
     <h1>
         Simple-IT-Markdown-Resume
     </h1>
-    <p align="center"> 一款适合 IT 行业的 Markdown 简历模版，拒绝花里胡哨 </p>
-    <img src="assets/img/main.jpg">
+    <p align="center"> 一款适合 IT 行业的 Markdown 简约简历模版，拒绝花里胡哨 </p>
+    <img src="assets/img/main.png">
 </div>
+
 
 
 
 ## 开始使用
 
-（1）安装 Markdown 编辑软件，推荐使用 [Typora](https://www.typora.io/) 编辑器。
+（1）安装 Markdown 编辑软件，推荐使用 [Typora](https://www.typora.io/) 编辑器（免费版 Typora 百度网盘下载[点此下载](https://pan.baidu.com/s/1fZoAGxbT9L1oQdBz7akbjg?pwd=71d9)）。
 
 （2）下载本项目，修改 [Resume.md](Resume.md) 文件即可。
 
@@ -119,7 +120,7 @@
   - 英文请核对正确，注意大小写，比如`GitHub`，而非`github`，以官网为准
   - 时间建议统一格式为 yyyy.mm - yyyy.mm，比如：2018.01 - 2018.12，而非 2018.1 - 2018.12
   - 中文始终保持一种字体，英文始终保持一种字体，字号不应该超过三种
-  - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+  - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/)
   - 简历颜色最多三种，黑色、白色、主题色
   - 简历不要花里胡哨，清除非主流图标、进度条等附加元素
   - 简历推荐命名：姓名 岗位 电话

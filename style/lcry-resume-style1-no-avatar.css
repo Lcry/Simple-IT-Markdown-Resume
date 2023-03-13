@@ -11,6 +11,7 @@ content {
 
 a {
     color: #000;
+    text-decoration:none;
 }
 
 h1 {
@@ -332,6 +333,12 @@ code {
 
 .md-task-list-item>input {
     margin-left: -1.3em;
+}
+
+/** 导出pdf的页边距 */
+@page {
+	margin: 8mm -5mm;  /* 第一个参数为上下页边距，第二个为左右 */
+	size: A4; /* 以A4纸张的大小 */
 }
 
 @media print {

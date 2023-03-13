@@ -1,27 +1,27 @@
 <center>
- <h1> Lcry </h1>
+ <h1> lcry </h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             138-0000-0000
+             155-0000-0000
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
+             <img src="assets/envelope-solid.svg" width="20px">
              i@51it.wang
          </span>
          ·
          <span>
-             <img src="assets/Github-brands.svg" width="18px">
-             <a href="https://Github.com/Lcry">Lcry</a>
+             <img src="assets/github-brands.svg" width="21px">
+             <a href="https://github.com/lcry" target="_blank">My Github</a>
          </span>
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://www.51it.wang">My Blog</a>
+             <a href="https://www.51it.wang" target="_blank">My Blog</a>
          </span>
      </div>
-        <div style="float:right;"> <img src="assets/avatar.jpg" width="90"> </div>
+     <div style="float:right;"><br><img src="assets/avater2.jpg" width="90"></div>
  </center>
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
@@ -29,12 +29,21 @@
 - 男，1996 年出生
 - 求职意向：Java 开发工程师
 - 工作经验：1 年（校招可不填）
-- 期望薪资：10k（校招可不填）
+- 期望薪资：15~30 k（校招可不填）
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 本科，XXX 大学，计算机科学与技术，2016.09~2020.06
 - 绩点：3.85，年级前 5%，多次获得 XX 奖学金（校招可填）
+
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+
+- Web 开发：Java/JSP/freemaker 
+- Web 框架：Spring/SpringMVC/SpringCloud
+- 前端框架：Vue/BootStrap/AngularJS/HTML5
+- 前端工具：WebStorm/Hbuilder/Visual Studio Code
+- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 版本管理、文档和自动化部署工具：SVN/Git/Jenkins
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -60,15 +69,6 @@
 
   ....
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- Web 开发：Java/JSP/freemaker 
-- Web 框架：Spring/SpringMVC/SpringCloud
-- 前端框架：Vue/BootStrap/AngularJS/HTML5
-- 前端工具：WebStorm/Hbuilder/Visual Studio Code
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：SVN/Git/Jenkins
-
 ## <img src="assets/honor-solid.svg" width="30px"> 校内荣誉（校招可填）
 
 - 2018-2019 学年甲等奖学金
@@ -78,4 +78,4 @@
 
 ## <img src="assets/evaluate-solid.svg" width="30px"> 自我评价（选填）
 
-客套话...本人性格热情开朗，待人友好，为人诚实谦虚。工作勤奋，认真负责，能吃苦耐劳，尽职尽责，有耐心。具有亲和力，平易近人，善于与人沟通。
+   客套话...本人性格热情开朗，待人友好，为人诚实谦虚。工作勤奋，认真负责，能吃苦耐劳，尽职尽责，有耐心。具有亲和力，平易近人，善于与人沟通。
